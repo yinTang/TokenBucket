@@ -1,0 +1,13 @@
+*/target
+*.class
+*.project
+*.classpath
+*/.settings
+**/test/java/META-INF/
+*/work_dir
+.idea
+*/log
+*.log
+*.iml
+*.ipr
+*.iws
